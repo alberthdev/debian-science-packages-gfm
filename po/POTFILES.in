@@ -1,0 +1,22 @@
+# List of source files containing translatable strings.
+
+# GFM source code
+src/cmdline.c
+src/ctree.c
+src/dialog.c
+src/file.c
+src/filesel.c
+src/gui.c
+src/labels.c
+src/main.c
+src/paths.c
+src/rwgroup.c
+src/splashscreen.c
+src/support.c
+src/tilibs.c
+src/ungroup.c
+
+# GFM GUI
+glade/dialogs.str
+glade/gfm.str
+
