@@ -1,0 +1,19 @@
+gfm (1.07-1) UNRELEASED; urgency=low
+
+  * New upstream release.
+
+ -- Andreas B. Mundt <andi@debian.org>  Mon, 10 Jun 2013 16:39:14 +0200
+
+gfm (1.03-2) unstable; urgency=low
+
+  * Package suggests tilp2
+  * Add missing GFM team copyright
+  * Bumped Standards-Version to 3.8.3
+
+ -- Krzysztof Burghardt <krzysztof@burghardt.pl>  Sun, 16 Aug 2009 18:14:21 +0200
+
+gfm (1.03-1) unstable; urgency=low
+
+  * Initial release (Closes: #532606)
+
+ -- Krzysztof Burghardt <krzysztof@burghardt.pl>  Thu, 11 Jun 2009 14:47:41 +0200
