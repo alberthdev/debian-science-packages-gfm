@@ -1,2 +1,5 @@
-?package(gfm):needs="X11" section="Applications/Science/Mathematics"\
-  title="Group File Manager" command="/usr/bin/gfm"
+?package(gfm):\
+ needs="X11"\
+ section="Applications/Science/Mathematics"\
+ title="Group File Manager"\
+ command="/usr/bin/gfm"
